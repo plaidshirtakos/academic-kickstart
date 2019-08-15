@@ -18,27 +18,27 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Test automation engineer"
+  company = "National Infocommunications Service Company Ltd."
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "Budapest"
+  date_start = "2017-06-07"
   date_end = ""
-  description = """
+  description = """The National Infocommunications Service Company Ltd. is the leading ICT provider in the public sector in Hungary. NISZ provides telecommunications, IT and e-government services.
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Planning of tests
+  * Implementation of testsuites
+  * Maintenance of testsuites
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Automation Engineer"
+  company = "IBM"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Székesfehérvár"
+  date_start = "2016-06-06"
+  date_end = "2017-06-06"
+  description = """Development of automata based on Javascript. Infrastructure automation."""
 
 +++
