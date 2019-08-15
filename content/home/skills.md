@@ -23,7 +23,7 @@ subtitle = ""
 [[feature]]
   icon = "vials"
   icon_pack = "fas"
-  name = "Testing"
+  name = "Software testing"
   description = "100%"  
   
 [[feature]]
