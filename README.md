@@ -1,4 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/2319df40-04cd-46f5-b6fa-26e18eb20679/deploy-status)](https://app.netlify.com/sites/blissful-carson-0cb5c0/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2319df40-04cd-46f5-b6fa-26e18eb20679/deploy-status)](https://app.netlify.com/sites/plaidshirtakos/deploys)
 
 
 # [Academic Kickstart](https://sourcethemes.com/academic/)
