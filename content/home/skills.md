@@ -15,15 +15,15 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "r-project"
+  icon = "java"
   icon_pack = "fab"
-  name = "R"
-  description = "90%"
+  name = "Java"
+  description = "60%"
   
 [[feature]]
-  icon = "chart-line"
+  icon = "vials"
   icon_pack = "fas"
-  name = "Statistics"
+  name = "Testing"
   description = "100%"  
   
 [[feature]]
