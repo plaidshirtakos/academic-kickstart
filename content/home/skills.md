@@ -24,12 +24,18 @@ subtitle = ""
   icon = "vials"
   icon_pack = "fas"
   name = "Software testing"
-  description = "100%"  
+  description = "80%"  
   
 [[feature]]
   icon = "camera-retro"
   icon_pack = "fas"
   name = "Photography"
-  description = "10%"
+  description = "10%"  
+  
+[[feature]]
+  icon = "fa-js"
+  icon_pack = "fab"
+  name = "JavaScript"
+  description = "40%"
 
 +++
