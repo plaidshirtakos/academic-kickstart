@@ -60,4 +60,4 @@ email: ""
 # - Visitors
 ---
 
-Engineer with a demonstrated history of working in the information technology and services industry. IT Polihystor, I like to wear most of the hats. Skilled in software testing and interested in agile methodologies. My main interest is QA. Profile: https://profile.codersrank.io/user/plaidshirtakos/ 
+Engineer with a demonstrated history of working in the information technology and services industry. IT Polihystor, I like to wear most of the hats. Skilled in software testing and interested in agile methodologies. My main interest is QA. 
