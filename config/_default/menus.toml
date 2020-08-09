@@ -17,3 +17,8 @@
     name = "CV"
     url = "http://akoskovacs.hu"
     weight = 70
+
+ [[main]]
+    name = "CodersRank"
+    url = "https://profile.codersrank.io/user/plaidshirtakos/"
+    weight = 70
