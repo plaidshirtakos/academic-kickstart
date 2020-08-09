@@ -22,6 +22,7 @@ bio: Skilled in software testing and interested in agile methodologies.
 
 interests:
 - QA
+- JavaScript
 - Java programming
 
 education:
