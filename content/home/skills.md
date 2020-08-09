@@ -33,7 +33,7 @@ subtitle = ""
   description = "10%"  
   
 [[feature]]
-  icon = "fa-js"
+  icon = "js"
   icon_pack = "fab"
   name = "JavaScript"
   description = "40%"
